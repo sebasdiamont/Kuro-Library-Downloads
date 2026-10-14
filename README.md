@@ -25,8 +25,9 @@ Whether you're building a manga library or organizing your downloaded reading fi
 - 📱 Read and manage your collection on Android.
 - 🖼️ View covers for your library items.
 - 🗂️ Keep your personal reading files organized.
+  
 
-Features and <h1 align="center"><strong>Features</strong></h1>
+<h1 align="center"><strong>Features</strong></h1>
 
 supported file formats depend on the current version.
 
