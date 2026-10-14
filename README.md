@@ -8,7 +8,7 @@
   <a href="https://github.com/sebasdiamont/Kuro-Library-Downloads/releases/latest">
     <img src="https://img.shields.io/badge/Download-Android_APK-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Download for Android" />
   </a>
-  <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" alt="Version 1.0.0" />
+  <img src="https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge" alt="Version 1.0.1" />
   <img src="https://img.shields.io/badge/Language-Spanish-orange?style=for-the-badge" alt="Available in Spanish" />
 </p>---
 
