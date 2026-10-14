@@ -12,13 +12,13 @@
   <img src="https://img.shields.io/badge/Language-Spanish-orange?style=for-the-badge" alt="Available in Spanish" />
 </p>---
 
-About
+<h1 align="center"><strong>About</strong></h1>
 
 Kuro Library is a personal Android application designed to help you organize and enjoy your digital manga and reading collection in one place.
 
 Whether you're building a manga library or organizing your downloaded reading files, Kuro Library provides a dedicated space for your collection.
 
-Features
+
 
 - 📚 Organize your digital reading collection.
 - 📁 Keep your library arranged in folders.
@@ -26,7 +26,9 @@ Features
 - 🖼️ View covers for your library items.
 - 🗂️ Keep your personal reading files organized.
 
-Features and supported file formats depend on the current version.
+Features and <h1 align="center"><strong>Features</strong></h1>
+
+supported file formats depend on the current version.
 
 Language support
 
@@ -34,7 +36,7 @@ Kuro Library is currently available only in Spanish.
 
 Additional languages are planned for future updates. The application will continue to evolve as new features and improvements are introduced.
 
-Download
+<h1 align="center"><strong>Download</strong></h1>
 
 Download the latest APK from the official GitHub Releases page.
 
@@ -51,11 +53,11 @@ Download the latest APK from the official GitHub Releases page.
 
 Only download APK files from the official repository.
 
-Updates
+<h1 align="center"><strong>Updates</strong></h1>
 
 New versions and release notes will be available on the "Releases page" (https://github.com/sebasdiamont/Kuro-Library-Downloads/releases).
 
-Developer
+<h1 align="center"><strong>Developer</strong></h1>
 
 Created and maintained by "@sebasdiamont" (https://github.com/sebasdiamont).
 
